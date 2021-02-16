@@ -8,19 +8,16 @@ class App extends React.Component {
 					s1="🍊"
 					s2="🍇"
 					s3="🍒"
-					text="You lose!"
 				/>
 				<Machine
 					s1="🍇"
 					s2="🍇"
 					s3="🍇"
-					text="You win!"
 				/>
 				<Machine
 					s1="🍊"
 					s2="🍇"
 					s3="🍊"
-					text="You lose!"
 				/>
 			</div>
 		);
