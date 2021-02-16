@@ -6,11 +6,7 @@ class App extends React.Component {
           to="Ringo"
           from="Paul"
           bangs={4}
-        />
-        <Hello
-          to="Ringo"
-          from="Paul"
-          bangs={10}
+          img="https://www.theweedpatchstore.com/images/D/hello-farmhouse-wood-sign-L.jpg"
         />
       </div>
     )
