@@ -1,12 +1,6 @@
 // class Hello extends React.Component {
 //   render() {
-//     return (
-//       <div>
-//         <h1>Hello there!</h1>
-//         <h1>Hello there!</h1>
-//         <h1>Hello there!</h1>
-//       </div>
-//     );
+//     return <p>Hi Everyone!</p>;
 //   }
 // }
 
@@ -19,4 +13,5 @@ function Hello() {
     </div>
   );
 }
+
 ReactDOM.render(<Hello />, document.getElementById('root'));
